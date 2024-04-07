@@ -4,7 +4,7 @@ An efficient files retrieval library
 
 ## Getting Started
 
-![alt text](<screenshots\image_preview.png>)
-![alt text](<screenshots/pdf_preview.png>)
-![alt text](<screenshots/settings_dart.png>)
-![alt text](<screenshots/settings_light.png>)
+![image_preview](<screenshots/image_preview.png>)
+![pdf_preview](<screenshots/pdf_preview.png>)
+![settings_dart](<screenshots/settings_dart.png>)
+![settings_light](<screenshots/settings_light.png>)
